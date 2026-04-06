@@ -20,6 +20,12 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Additional Roles for Modern Projects:
+- UX Designer: leads design and usability initiatives.
+- Business Analyst: ensures business needs are clearly captured and translated.
+- Site Reliability Engineer (SRE): promotes operational resilience and incident preparedness.
+- Agile Coach: supports agile adoption and process improvement.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
